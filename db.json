@@ -1,0 +1,29 @@
+{
+  "listMovies": [
+    {
+      "id": 6,
+      "name": "Fast and furious ",
+      "image_url": "https://tse3.mm.bing.net/th?id=OIP.Efos07np9lkUaHpviNQ_IAHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 2,
+      "name": "Captain America",
+      "image_url": "https://tse2.mm.bing.net/th?id=OIP.fDtpgSuTvWjr_bZxtzdWggHaLH&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 3,
+      "name": "Jurasic",
+      "image_url": "https://tse3.mm.bing.net/th?id=OIP.3Cc_mnqg9LKOGKwCo8r5GwHaLG&pid=Api&P=0&h=180"
+    },
+    {
+      "id": 5,
+      "name": "Dog and cat",
+      "image_url": "https://tse2.mm.bing.net/th?id=OIP.-RRVHrefIErWwQ2r9pcTLQHaLN&pid=Api&P=0&h=180"
+    },
+    {
+      "image_url": "https://tse1.mm.bing.net/th?id=OIP.WnAMMuI8YKDz5UxkdoM05QHaKI&pid=Api&P=0&h=180",
+      "name": "Batman",
+      "id": 8
+    }
+  ]
+}
